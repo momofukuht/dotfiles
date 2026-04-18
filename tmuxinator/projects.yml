@@ -1,0 +1,9 @@
+name: projects
+root: ~/projects
+
+windows:
+  - main:
+      layout: even-horizontal
+      panes:
+        - cd ~/projects
+        - cd ~/projects
